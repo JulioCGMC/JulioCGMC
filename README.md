@@ -1,6 +1,6 @@
 <!-- Greeting -->
 
-### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"></h1>
+### Good Day! You may call-me Julio Cortez <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"></h1>
 
 
 ---
@@ -56,7 +56,7 @@ Oh and some HTML (its cool too).
 
 ### 📈 Github Stats
 
-<img src="https://komarev.com/ghpvc/?username=danBamikiya&label=Profile%20views&color=00acee&style=flat" alt="danBamikiya" />
+<img src="https://komarev.com/ghpvc/?username=JulioCGMC&label=Profile%20views&color=blueviolet&style=flat" alt="JulioCGMC" />
 
   ---
   
