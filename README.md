@@ -52,7 +52,7 @@ Oh and some HTML (its cool too).
 
   ---
 
-🏸 Badminton  🏓 Table Tennis 🏹 Archery
+♱ Learn the truth  ⚛ Physics  🎸 Bass/Guitar/..  🥋 Karate
 
 ### 📈 Github Stats
 
@@ -62,8 +62,8 @@ Oh and some HTML (its cool too).
   
 
 
-<a href="https://github.com/danBamikiya/danBamikiya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danBamikiya&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
+<a href="https://github.com/JulioCGMC/JulioCGMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulioCGMC&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Julio GitHub Stats" />
 </a>
 
 <br />
