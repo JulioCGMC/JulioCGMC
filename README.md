@@ -52,7 +52,7 @@ Oh and some HTML (its cool too).
 
   ---
 
-♱ Learn the truth  ⚛ Physics  🎸 Bass/Guitar/..  🥋 Karate
+♱  Learn the truth  |  ⚛  Physics  |  🎸  Bass/Guitar/..  |  🥋  Karate
 
 ### 📈 Github Stats
 
