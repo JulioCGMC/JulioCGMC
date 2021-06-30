@@ -7,18 +7,22 @@
 
 
 <!-- About -->
-I'm a Frontend Software Engineer. I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
-
-I STAND for: 
-            - Diversity
-            - Inclusion
-            - Equality             
-
-Other interests: Nanotechnology, AI
-
-I'm mostly writing Typescript, Sass, some Python, some Shell (or PowerShell if required) and HCL.
-Oh and some HTML (its cool too).
-
+About me:
+```dart
+enum Work { php_native, laravel, yii, flutter_packages, flutter_apps, database_analysis, c, c++, python, java, javascript }
+final Map<String,dynamic> julio = {
+            "fullname": Julio Cesar Gregorio de Medeiros Cortez,
+            "marital_status": "married",
+            "citizenship": 🇧🇷,
+            "language": [
+                        Locale("pt-br"), 
+                        Locale("en"), 
+                        Locale("el") // Koinê Greek
+            ],
+            "current_work": [ Work.php_native, Work.laravel, Work.flutter_packages, Work.flutter_apps ],
+            "graduation": "Bachelor of Computer Science" // Need to finish
+};
+```
 
 ### 🔧 Technologies & Tools
 
