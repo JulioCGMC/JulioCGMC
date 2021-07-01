@@ -8,7 +8,8 @@
 <!-- About -->
 About me:
 ```dart
-enum Knowledge { php_native, laravel, yii, flutter_packages, flutter_apps, database_analysis, c, c++, python, java, javascript }
+enum Knowledge { php_native, laravel, yii, flutter_packages, flutter_apps, 
+            database_analysis, c, c++, python, java, javascript }
 final Map<String,dynamic> julio = {
             "fullname": Julio Cesar Gregorio de Medeiros Cortez,
             "marital_status": "married",
@@ -18,7 +19,12 @@ final Map<String,dynamic> julio = {
                         Locale("en"), 
                         Locale("el") // Koinê Greek
             ],
-            "current_work": [ Knowledge.php_native, Knowledge.laravel, Knowledge.flutter_packages, Knowledge.flutter_apps ],
+            "current_work": [ 
+                        Knowledge.php_native, 
+                        Knowledge.laravel, 
+                        Knowledge.flutter_packages, 
+                        Knowledge.flutter_apps
+            ],
             "graduation": "Bachelor of Computer Science" // Need to finish
 };
 ```
