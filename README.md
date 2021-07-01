@@ -42,7 +42,7 @@ Reach Me
 
 
 <a href="https://github.com/JulioCGMC/JulioCGMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulioCGMC&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=f3f2ff&text_color=d8d4fa&icon_color=5249f5&bg_color=191f26" alt="Julio GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JulioCGMC&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=f3f2ff&text_color=d8d5ed&icon_color=5249f5&bg_color=191f26" alt="Julio GitHub Stats" />
 </a>
 
 <br />
