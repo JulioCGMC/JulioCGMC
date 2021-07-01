@@ -25,7 +25,7 @@ final Map<String,dynamic> julio = {
 
 Reach Me
 
-[![Instagram Badge](https://img.shields.io/badge/-julio.cgmc-00acee?style=flat&logo=instagram&logoColor=white&color=b515e6)](https://instagram.com/julio.cgmc/) [![Gmail Badge](https://img.shields.io/badge/-julio.cgmc-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:julio.cesar.g.c125@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-julio.cgmc-00acee?style=flat&logo=instagram&logoColor=white&color=BD60D0)](https://instagram.com/julio.cgmc/) [![Gmail Badge](https://img.shields.io/badge/-julio.cgmc-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:julio.cesar.g.c125@gmail.com)
 
 ### ⚡ Hobbies
 
@@ -35,7 +35,7 @@ Reach Me
 
 ### 📈 Github Stats
 
-<img src="https://komarev.com/ghpvc/?username=JulioCGMC&label=Profile%20views&color=blueviolet&style=flat" alt="JulioCGMC" />
+<img src="https://komarev.com/ghpvc/?username=JulioCGMC&label=Profile%20views&color=5249f5&style=flat" alt="JulioCGMC" />
 
   ---
   
