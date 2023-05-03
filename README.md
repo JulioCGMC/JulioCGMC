@@ -8,7 +8,7 @@
 <!-- About -->
 About me:
 ```dart
-enum Knowledge { php_native, laravel, yii, flutter_packages, flutter_apps, 
+enum Knowledge { angular, react, flutter_packages, flutter_apps, laravel, dotnet,
             database_analysis, c, c++, python, java, javascript }
 final Map<String,dynamic> julio = {
             "fullname": Julio Cesar Gregorio de Medeiros Cortez,
