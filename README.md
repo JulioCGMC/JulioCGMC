@@ -7,8 +7,8 @@
 <p align="center">My goal is to help you put your ideias into reality ❤️ <br><br> From mobile development using Flutter to backend development using Laravel or .NET and also frontend development using Angular and of course Flutter again, I am <strong>passionate to new challenges</strong> and generate good and sustainable solutions. Today, I'm a <strong>mobile and full stack mid-level developer</strong> focused on web and app development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=49% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=elegant&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" />
-<img width=46% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=elegant&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" />
+<img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
  </div>
  
  &nbsp;
