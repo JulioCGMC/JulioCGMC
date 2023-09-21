@@ -7,7 +7,8 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="[https://github-readme-streak-stats.herokuapp.com?user=juliocgmc&theme=radical&mode=weekly](https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=darcula&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=slateorange&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=darcula&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-juliocgmc.vercel.app/api/top-langs/?username=juliocgmc&show_icons=true&theme=radical&layout=compact" />
  </div>
  
