@@ -1,4 +1,6 @@
-<div  align="center">![Texto Alternativo](./assets/header-image.png)</div>
+<div  align="center">
+ <img src="/JulioCGMC/JulioCGMC/raw/main/assets/header-image.png" alt="Texto Alternativo" style="max-width: 100%;">
+</div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
