@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/header-image.png" alt="Texto Alternativo">
+  <img src="./assets/header-image.png">
 </div>
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">My goal is to help you put your ideias into reality ❤️ <br><br> From mobile development using Flutter to backend development using Laravel or .NET and also frontend development using Angular and of course Flutter again, I am <strong>passionate to new challenges</strong> and generate good and sustainable solutions. Today, I'm a <strong>mobile and full stack mid-level developer</strong> focused on web and app development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=49% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JulioCGMC&theme=elegant&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" />
@@ -24,7 +24,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=blue&color=white)&nbsp;
 ![THREE.JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
 
